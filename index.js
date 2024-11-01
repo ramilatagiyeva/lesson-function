@@ -44,4 +44,3 @@ let obj = [
   let aliyevUnder18 = obj.filter(person => person.surname === "Aliyev" && person.age < 18);
   console.log(drivingPlus);
   console.log(aliyevUnder18);
-
